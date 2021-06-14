@@ -1,6 +1,21 @@
 Pure Change History
 ===================
 
+2.0.6 (2021-04-28)
+------------------
+
+* chore: update to cssmin@4
+
+2.0.5 (2021-01-20)
+------------------
+
+* fix #824: cursor style for disabled menu link
+
+2.0.4 (2021-01-19)
+------------------
+
+* chore: update license path
+
 2.0.3 (2020-05-11)
 ------------------
 

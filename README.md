@@ -7,29 +7,12 @@ A set of small, responsive CSS modules that you can use in every web project.
 [http://purecss.io/][Pure]
 
 [![Build Status](http://img.shields.io/travis/pure-css/pure.svg?style=flat)][Build Status]
-[![Dependency Status](https://david-dm.org/pure-css/pure/dev-status.svg)](https://david-dm.org/pure-css/pure?type=dev)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/pure-css/pure?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 **This project is looking for maintainers to support and enhance Pure.css. If you are interested please [leave a comment](https://github.com/pure-css/pure/issues/692) in the Github issue.**
 
-**Use From the CDN:**
-
-```html
-<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
-```
-
-Note: You can [customize which Pure modules you need][customize].
-
-**Install with NPM:**
-
-```shell
-$ npm install purecss
-```
-
 [Pure]: http://purecss.io/
-[Build Status]: https://travis-ci.org/pure-css/pure
-[customize]: http://purecss.io/customize/
-
+[Build Status]: https://travis-ci.com/pure-css/pure
 
 Features
 --------
@@ -64,20 +47,9 @@ of all the CSS work that every site needs, without making it look cookie-cutter:
 Get Started
 -----------
 
-To get started using Pure, go to the [Pure CSS website][Pure]. The website has
-extensive documentation and examples to help you start using Pure.
+Check out the [Get Started][Started] page for more information.
 
-You can include the Pure CSS file in your project by fetching it from unpkg:
-
-```html
-<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-cg6SkqEOCV1NbJoCu11+bm0NvBRc8IYLRGXkmNrqUBfTjmMYwNKPWBTIKyw9mHNJ" crossorigin="anonymous">
-```
-
-You can also install Pure using NPM:
-
-```shell
-$ npm install purecss
-```
+[Started]: https://purecss.io/start/
 
 Build From Source
 -----------------
